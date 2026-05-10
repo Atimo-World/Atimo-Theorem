@@ -4,8 +4,8 @@
 **Datum:** Mai 2026  
 **Ort:** Dresden, Deutschland  
 **Status:** Universelles Theorem / Prämaterielle Ontologie  
-**DOI:** 10.5281/zenodo.20066727
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20109927.svg)](https://doi.org/10.5281/zenodo.20109927)
+https://doi.org/10.5281/zenodo.20109927
 ---
 
 ## 1. Abstract
