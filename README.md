@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20621199.svg)](https://doi.org/10.5281/zenodo.20621199)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20622852.svg)](https://doi.org/10.5281/zenodo.20622852)
+.
 [Atimo-Theorem_v3.0_Multilingual_RELEASE_fixed_2.md](https://github.com/user-attachments/files/28781057/Atimo-Theorem_v3.0_Multilingual_RELEASE_fixed_2.md)
 # Multilingual Release Package: Atimo-Theorem v3.0
 
